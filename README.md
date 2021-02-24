@@ -1,1 +1,11 @@
-# keerthna22AD
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Buttons</h2>
+<p>HTML buttons are defined with the button tag:tag:</p></p>
+
+<button>Click me</button>
+
+</body>
+</html>
