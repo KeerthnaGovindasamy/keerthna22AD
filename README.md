@@ -3,7 +3,7 @@
 <body>
 
 <h2>HTML Buttons</h2>
-<p>HTML buttons are defined with the button tag:tag:</p>
+<p>HTML buttons are defined with the button tag:</p>
 
 <button>Click me</button>
 
